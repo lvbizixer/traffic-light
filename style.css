@@ -1,0 +1,36 @@
+#container{
+ background-color: black;
+ width: 150px;   
+height: 450px;
+margin: 50px auto;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+border-radius: 5px;
+}
+
+
+#yellow{
+    width: 75px;
+    height: 75px;
+    background-color: rgb(102, 102, 9);
+    border-radius: 50%;
+    
+}
+
+#green{
+    width: 75px;
+    height: 75px;
+    background-color: rgb(0, 97, 0);
+    border-radius: 50%;
+    
+}
+
+#red{
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-color: rgb(102, 17, 17);
+    
+}
